@@ -1,0 +1,30 @@
+* {
+    color: blue;
+    background-color: #EEE
+}
+
+body {
+    font-size: 12px;
+}
+
+.red {
+    color: red;
+    font-size: 40px;
+    background-color: #DED;
+}
+
+.green {
+    color: green;
+    font-size: 40px;
+    background-color: #EDF;
+}
+
+#test1 {
+    color: purple;
+    font-size: 70px;
+}
+
+#test {
+    color: gray;
+    font-size: 30px;
+}
